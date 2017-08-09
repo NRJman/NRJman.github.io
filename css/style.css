@@ -1,0 +1,25 @@
+body {
+  font-family: 'Poiret One', cursive;
+  font-weight: bold; }
+  body h1 {
+    font-weight: bold; }
+  body table {
+    border: 1px solid #ddd; }
+    body table th {
+      color: black;
+      font-size: 1.2em; }
+    body table tr {
+      color: black; }
+  body button.btn-danger, body button.btn-success {
+    font-weight: bold; }
+  body span {
+    color: black;
+    font-size: 1.2em; }
+  @media (max-width: 768px) {
+    body button.btn {
+      width: 100%;
+      margin-bottom: 3px; }
+    body input {
+      margin-bottom: 10px; } }
+
+/*# sourceMappingURL=style.css.map */
